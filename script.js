@@ -37,7 +37,7 @@ class ExtinctAnimal extends Animal {
       } else if (this.extinctionYear > 1500 && this.extinctionYear < 2000) {
         console.log("This was not too long ago."); 
       } else {
-        console.log("Dang! This way a super long time ago!")
+        console.log("Dang! This way a super long time ago!");
       }
     }
 }
